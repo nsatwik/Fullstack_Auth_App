@@ -1,0 +1,22 @@
+# Java
+target/
+*.class
+*.log
+
+# Node
+node_modules/
+dist/
+build/
+
+# Env
+.env
+*.pem
+*.key
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+
